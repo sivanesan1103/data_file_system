@@ -120,3 +120,4 @@ instaloader +args1.txt +args2.txt
 ```
 it shoude be same id if diifernt id differnt folder with differnt command 
 
+https://ubuntu.com/tutorials/install-and-configure-samba#2-installing-samba
