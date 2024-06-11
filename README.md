@@ -126,3 +126,6 @@ https://ubuntu.com/tutorials/install-and-configure-samba#2-installing-samba
 find . -not -name "*.json.xz" -mtime -1 -exec bash -c 'dir=$(basename "$(dirname "{}")"); mkdir -p /home/kali/backup/"$dir"; cp -r "{}" /home/kali/backup/"$dir"' \;
 
 ```
+```
+find . -not -name "*.json.xz"  -mtime -1
+```
