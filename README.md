@@ -10,15 +10,7 @@
   * add profile in firefox
 
 
-### Install python
-  ```
-    sudo apt install python3.13
-  ```
-
-### Install pip
-```
-sudo apt install python3-pip
-```
+https://www.geeksforgeeks.org/how-to-install-pip-in-linux/
 
 ### Intall instraloader 
 ```
